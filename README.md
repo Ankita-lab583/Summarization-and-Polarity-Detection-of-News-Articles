@@ -1,0 +1,1 @@
+# Summarization-and-Polarity-Detection-of-News-Articles
